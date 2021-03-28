@@ -81,5 +81,3 @@ function print(value , q , tr_id , cstmr_id ){
 
 
 
-
-
